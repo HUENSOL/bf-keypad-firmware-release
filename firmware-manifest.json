@@ -11,11 +11,11 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.0.0",
+          "version": "1.1.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PAD_HID_API_FW_v1.1.hex",
-          "fileSize": 84230
+          "fileSize": 87380
         }
       ]
     },
