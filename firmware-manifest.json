@@ -1,0 +1,126 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-30",
+  "models": {
+    "link-pad": {
+      "name": {
+        "en": "Link Pad",
+        "ko": "링크 패드"
+      },
+      "variants": [
+        {
+          "id": "link-pad-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1O_1wCQ9lEc07xl608Bw-OIelSAfN7EYI",
+          "fileSize": 84230
+        }
+      ]
+    },
+    "link-free-vertical": {
+      "name": {
+        "en": "Link Free Vertical",
+        "ko": "링크 프리 세로형"
+      },
+      "variants": [
+        {
+          "id": "link-free-vertical-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1H2i2kAp8S1pB9r5uixk0YzZ6sEkoIhuy",
+          "fileSize": 72321
+        }
+      ]
+    },
+    "link-free-horizontal": {
+      "name": {
+        "en": "Link Free Horizontal",
+        "ko": "링크 프리 가로형"
+      },
+      "variants": [
+        {
+          "id": "link-free-horizontal-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LL18IdZJAH102xKuIC7y663QMw-RLvmL",
+          "fileSize": 69216
+        }
+      ]
+    },
+    "link-plus-number-vertical": {
+      "name": {
+        "en": "Link Plus Number Vertical",
+        "ko": "링크 플러스 숫자키 세로형"
+      },
+      "variants": [
+        {
+          "id": "link-plus-number-vertical-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VTlHa7rb2Afi99PKaIQVXXPlfofTERMy",
+          "fileSize": 68541
+        }
+      ]
+    },
+    "link-plus-number-horizontal": {
+      "name": {
+        "en": "Link Plus Number Horizontal",
+        "ko": "링크 플러스 숫자키 가로형"
+      },
+      "variants": [
+        {
+          "id": "link-plus-number-horizontal-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1eQ43TsxyVCVHrQbXRTU2xwiZ3kfoAd68",
+          "fileSize": 68541
+        }
+      ]
+    },
+    "link-plus-dpad-vertical": {
+      "name": {
+        "en": "Link Plus D-pad Vertical",
+        "ko": "링크 플러스 방향키 세로형"
+      },
+      "variants": [
+        {
+          "id": "link-plus-dpad-vertical-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13zghd9KIBPIHuspoVohonlXGkf-6Espa",
+          "fileSize": 68541
+        }
+      ]
+    },
+    "link-plus-dpad-horizontal": {
+      "name": {
+        "en": "Link Plus D-pad Horizontal",
+        "ko": "링크 플러스 방향키 가로형"
+      },
+      "variants": [
+        {
+          "id": "link-plus-dpad-horizontal-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.0.0",
+          "releaseDate": "2025-12-30",
+          "changelog": { "en": "Initial release", "ko": "초기 버전" },
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1kGTx7rt8ixVBQM2QLCr_ez-Fhq-FmJvY",
+          "fileSize": 68541
+        }
+      ]
+    }
+  }
+}
+
