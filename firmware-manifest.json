@@ -14,7 +14,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1O_1wCQ9lEc07xl608Bw-OIelSAfN7EYI",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_PAD_HID_API_FW_v1.0.hex",
           "fileSize": 84230
         }
       ]
@@ -31,7 +31,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1H2i2kAp8S1pB9r5uixk0YzZ6sEkoIhuy",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_FREE_HID_API_FW_v1_VERTICAL.hex",
           "fileSize": 72321
         }
       ]
@@ -48,7 +48,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LL18IdZJAH102xKuIC7y663QMw-RLvmL",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_FREE_HID_API_FW_v1_HORIZONTAL.hex",
           "fileSize": 69216
         }
       ]
@@ -65,7 +65,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VTlHa7rb2Afi99PKaIQVXXPlfofTERMy",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_PLUS_NV_HID_API_FW_v1.hex",
           "fileSize": 68541
         }
       ]
@@ -82,7 +82,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1eQ43TsxyVCVHrQbXRTU2xwiZ3kfoAd68",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_PLUS_NH_HID_API_FW_v1.hex",
           "fileSize": 68541
         }
       ]
@@ -99,7 +99,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=13zghd9KIBPIHuspoVohonlXGkf-6Espa",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_PLUS_DV_HID_API_FW_v1.hex",
           "fileSize": 68541
         }
       ]
@@ -116,7 +116,7 @@
           "version": "1.0.0",
           "releaseDate": "2025-12-30",
           "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1kGTx7rt8ixVBQM2QLCr_ez-Fhq-FmJvY",
+          "downloadUrl": "https://github.com/HUENSOL/bf-keypad-firmware-release/releases/download/v1.0/LINK_PLUS_DH_HID_API_FW_v1.hex",
           "fileSize": 68541
         }
       ]
