@@ -28,10 +28,10 @@
         {
           "id": "link-free-vertical-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.0.0",
+          "version": "1.1.0",
           "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_HID_API_FW_v1_VERTICAL.hex",
+          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_VERTICAL_HID_API_FW_v1.0.hex",
           "fileSize": 72321
         }
       ]
@@ -45,10 +45,10 @@
         {
           "id": "link-free-horizontal-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.0.0",
+          "version": "1.1.0",
           "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "초기 버전" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_HID_API_FW_v1_HORIZONTAL.hex",
+          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_HORIZONTAL_HID_API_FW_v1.0.hex",
           "fileSize": 69216
         }
       ]
