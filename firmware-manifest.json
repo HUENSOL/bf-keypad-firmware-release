@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-30",
+  "version": "1.2.0",
+  "lastUpdated": "2026-01-05",
   "models": {
     "link-pad": {
       "name": {
@@ -11,114 +11,82 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PAD_HID_API_FW_v1.1.hex",
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.0.hex",
           "fileSize": 87380
         }
       ]
     },
-    "link-free-vertical": {
+    "link-free": {
       "name": {
-        "en": "Link Free Vertical",
-        "ko": "링크 프리 세로형"
+        "en": "Link Free",
+        "ko": "링크 프리"
       },
       "variants": [
         {
-          "id": "link-free-vertical-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_VERTICAL_HID_API_FW_v1.1.hex",
+          "id": "link-free-vertical",
+          "name": { "en": "Vertical", "ko": "세로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_VERTICAL_HID_API_FW_v1.2.0.hex",
+          "fileSize": 72321
+        },
+        {
+          "id": "link-free-horizontal",
+          "name": { "en": "Horizontal", "ko": "가로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_HORIZONTAL_HID_API_FW_v1.2.0.hex",
           "fileSize": 72321
         }
       ]
     },
-    "link-free-horizontal": {
+    "link-plus": {
       "name": {
-        "en": "Link Free Horizontal",
-        "ko": "링크 프리 가로형"
+        "en": "Link Plus",
+        "ko": "링크 플러스"
       },
       "variants": [
         {
-          "id": "link-free-horizontal-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_FREE_HORIZONTAL_HID_API_FW_v1.1.hex",
-          "fileSize": 69216
-        }
-      ]
-    },
-    "link-plus-number-vertical": {
-      "name": {
-        "en": "Link Plus Number Vertical",
-        "ko": "링크 플러스 숫자키 세로형"
-      },
-      "variants": [
-        {
-          "id": "link-plus-number-vertical-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PLUS_NV_HID_API_FW_v1.1.hex",
+          "id": "link-plus-number-vertical",
+          "name": { "en": "Number printing vertical", "ko": "숫자키 세로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NV_HID_API_FW_v1.2.0.hex",
           "fileSize": 68541
-        }
-      ]
-    },
-    "link-plus-number-horizontal": {
-      "name": {
-        "en": "Link Plus Number Horizontal",
-        "ko": "링크 플러스 숫자키 가로형"
-      },
-      "variants": [
+        },
         {
-          "id": "link-plus-number-horizontal-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PLUS_NH_HID_API_FW_v1.1.hex",
+          "id": "link-plus-number-horizontal",
+          "name": { "en": "Number printing horizontal", "ko": "숫자키 가로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NH_HID_API_FW_v1.2.0.hex",
           "fileSize": 68541
-        }
-      ]
-    },
-    "link-plus-dpad-vertical": {
-      "name": {
-        "en": "Link Plus D-pad Vertical",
-        "ko": "링크 플러스 방향키 세로형"
-      },
-      "variants": [
+        },
         {
-          "id": "link-plus-dpad-vertical-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PLUS_DV_HID_API_FW_v1.1.hex",
+          "id": "link-plus-dpad-vertical",
+          "name": { "en": "D-pad printing vertical", "ko": "방향키 세로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DV_HID_API_FW_v1.2.0.hex",
           "fileSize": 68541
-        }
-      ]
-    },
-    "link-plus-dpad-horizontal": {
-      "name": {
-        "en": "Link Plus D-pad Horizontal",
-        "ko": "링크 플러스 방향키 가로형"
-      },
-      "variants": [
+        },
         {
-          "id": "link-plus-dpad-horizontal-default",
-          "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.1.0",
-          "releaseDate": "2025-12-30",
-          "changelog": { "en": "Initial release", "ko": "key hold 모드 추가" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2025-DEC/LINK_PLUS_DH_HID_API_FW_v1.1.hex",
+          "id": "link-plus-dpad-horizontal",
+          "name": { "en": "D-pad printing horizontal", "ko": "방향키 가로형" },
+          "version": "1.2.0",
+          "releaseDate": "2026-01-05",
+          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DH_HID_API_FW_v1.2.0.hex",
           "fileSize": 68541
-        }
+        },
       ]
     }
   }
