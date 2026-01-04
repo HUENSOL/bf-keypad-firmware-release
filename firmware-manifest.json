@@ -86,7 +86,7 @@
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DH_HID_API_FW_v1.2.0.hex",
           "fileSize": 68541
-        },
+        }
       ]
     }
   }
