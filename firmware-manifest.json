@@ -15,7 +15,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.0.hex",
-          "fileSize": 87380
+          "fileSize": 88341
         }
       ]
     },
@@ -32,7 +32,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_VERTICAL_HID_API_FW_v1.2.0.hex",
-          "fileSize": 72321
+          "fileSize": 72366
         },
         {
           "id": "link-free-horizontal",
@@ -41,7 +41,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_HORIZONTAL_HID_API_FW_v1.2.0.hex",
-          "fileSize": 72321
+          "fileSize": 72395
         }
       ]
     },
@@ -58,7 +58,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NV_HID_API_FW_v1.2.0.hex",
-          "fileSize": 68541
+          "fileSize": 74031
         },
         {
           "id": "link-plus-number-horizontal",
@@ -67,7 +67,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NH_HID_API_FW_v1.2.0.hex",
-          "fileSize": 68541
+          "fileSize": 74031
         },
         {
           "id": "link-plus-dpad-vertical",
@@ -76,7 +76,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DV_HID_API_FW_v1.2.0.hex",
-          "fileSize": 68541
+          "fileSize": 74076
         },
         {
           "id": "link-plus-dpad-horizontal",
@@ -85,7 +85,7 @@
           "releaseDate": "2026-01-05",
           "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
           "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DH_HID_API_FW_v1.2.0.hex",
-          "fileSize": 68541
+          "fileSize": 74076
         }
       ]
     }
