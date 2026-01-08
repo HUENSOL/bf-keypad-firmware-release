@@ -1,0 +1,605 @@
+{
+  "metadata": {
+    "schemaVersion": 5,
+    "exportedAt": "2025-12-09T00:28:24.740Z"
+  },
+  "behavior": {
+    "led_button_press_enabled": false,
+    "led_default_state": true,
+    "led_press_duration_ms": 5000,
+    "layout": "vertical",
+    "num_modes": 2,
+    "active_mode": 1,
+    "mode_led_enabled": true,
+    "jack_led_mode": 2,
+    "mode_shortcuts": [
+      {
+        "enter": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        },
+        "exit": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        }
+      },
+      {
+        "enter": {
+          "enabled": true,
+          "beforeDelay": 0,
+          "modifier": "0x09",
+          "keycode": "0x28",
+          "afterDelay": 1500
+        },
+        "exit": {
+          "enabled": true,
+          "beforeDelay": 0,
+          "modifier": "0x09",
+          "keycode": "0x28",
+          "afterDelay": 1500
+        }
+      },
+      {
+        "enter": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        },
+        "exit": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        }
+      },
+      {
+        "enter": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        },
+        "exit": {
+          "enabled": false,
+          "beforeDelay": 0,
+          "modifier": "0x00",
+          "keycode": "0x00",
+          "afterDelay": 0
+        }
+      }
+    ]
+  },
+  "keyMappings": [
+    {
+      "keyIndex": 0,
+      "label": "Button 1: ➖ Minus",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x80",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x80",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x80",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x80",
+            "isMedia": true
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 1,
+      "label": "Button 2: ➕ Plus",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x40",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x40",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x40",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x40",
+            "isMedia": true
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 2,
+      "label": "Button 3: ▲ Up",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x52",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0xF1",
+            "keycode": "0x2E",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x52",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x52",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 3,
+      "label": "Button 4: ▼ Down",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x51",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0xF1",
+            "keycode": "0x2D",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x51",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x51",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 4,
+      "label": "Button 5: ◀ Left",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x50",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x02",
+            "keycode": "0x2B",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x50",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x50",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 5,
+      "label": "Button 6: ▶ Right",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4F",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x2B",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4F",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4F",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 6,
+      "label": "Button 7: 🔘 OK",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x28",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x28",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x28",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x28",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 7,
+      "label": "Button 8: 🔙 Back",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x29",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x29",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x2A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x2A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 8,
+      "label": "Button 9: 🏠 Home",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x4A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 9,
+      "label": "Button 10: ℹ️ Info (F1)",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x3A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x3A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x3A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x3A",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 10,
+      "label": "Button 11: 🎧⬇︎ Earphone IN",
+      "global": true,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x42",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 11,
+      "label": "Button 12: 🎧⬆︎ Earphone OUT",
+      "global": true,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x43",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 12,
+      "label": "Button 13: 🚨 External Button",
+      "global": true,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x44",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    },
+    {
+      "keyIndex": 13,
+      "label": "Button 14: 🔄 Mode Button",
+      "global": false,
+      "modes": [
+        {
+          "mode": 1,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": null,
+            "mediaKey": "0x20",
+            "isMedia": true
+          }
+        },
+        {
+          "mode": 2,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x45",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 3,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x45",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        },
+        {
+          "mode": 4,
+          "mapping": {
+            "modifier": "0x00",
+            "keycode": "0x45",
+            "mediaKey": null,
+            "isMedia": false
+          }
+        }
+      ]
+    }
+  ]
+}

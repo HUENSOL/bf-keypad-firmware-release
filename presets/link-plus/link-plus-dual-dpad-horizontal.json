@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "exportedAt": "2025-12-04T06:56:16.462Z"
+  },
+  "behavior": {
+    "mode_feature_enabled": true,
+    "led_state_when_mode_disabled": false,
+    "led_toggle_on_press_enabled": false,
+    "led_default_state": false,
+    "layout": "horizontal",
+    "buttonPrinting": "number"
+  },
+  "keyMappings": [
+    {
+      "keyIndex": 0,
+      "label": "M - 모드",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x45",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x45",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 1,
+      "label": "1 - 음량 감소",
+      "mode0": {
+        "modifier": "0x01",
+        "keycode": "0x00",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x24",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 2,
+      "label": "2 - 위",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x50",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x21",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 3,
+      "label": "3 - 음량 증가",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": "0x80",
+        "isMedia": true
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x1E",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 4,
+      "label": "4 - 왼쪽",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x51",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x25",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 5,
+      "label": "5 - 확인",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x28",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x22",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 6,
+      "label": "6 - 오른쪽",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x52",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x1F",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 7,
+      "label": "7 - 정지",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x15",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x26",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 8,
+      "label": "8 - 아래",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x4F",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x23",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 9,
+      "label": "9 - 다시듣기",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": "0x40",
+        "isMedia": true
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x20",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 10,
+      "label": "X - 뒤로",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x29",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x27",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 11,
+      "label": "0 - 홈",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x4A",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x28",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 12,
+      "label": "O - 엔터",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x3A",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x2A",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 13,
+      "label": "🎧⬇︎ 이어폰 삽입",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x42",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x42",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 14,
+      "label": "🎧⬆︎ 이어폰 제거",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x43",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x43",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 15,
+      "label": "🔘 외부 버튼",
+      "mode0": {
+        "modifier": "0x00",
+        "keycode": "0x44",
+        "mediaKey": null,
+        "isMedia": false
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x44",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    }
+  ]
+}

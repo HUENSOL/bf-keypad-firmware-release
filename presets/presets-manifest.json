@@ -1,0 +1,12 @@
+{
+    "link-free": [
+      { "id": "default", "name": "Default Settings", "file": "default.json" }
+    ],
+    "link-pad": [
+      { "id": "default", "name": "Default Settings", "file": "link-pad-default-keymap.json" },
+      { "id": "dual mode", "name": "Dual mode Settings", "file": "link-pad-config-dual-mode.json" }
+    ],
+    "link-plus": [
+      { "id": "default", "name": "Default Settings", "file": "link-plus-dual-number-vertical.json" }
+    ]
+  }
