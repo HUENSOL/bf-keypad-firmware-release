@@ -1,17 +1,18 @@
 {
   "metadata": {
     "schemaVersion": 5,
-    "exportedAt": "2025-11-25T03:20:30.057Z"
+    "exportedAt": "2026-01-10T10:50:59.743Z"
   },
   "behavior": {
     "led_button_press_enabled": false,
     "led_default_state": true,
-    "led_press_duration_ms": 200,
+    "led_press_duration_ms": 5000,
     "layout": "vertical",
     "num_modes": 4,
     "active_mode": 1,
     "mode_led_enabled": true,
     "jack_led_mode": 2,
+    "key_hold_mode": false,
     "mode_shortcuts": [
       {
         "enter": {
@@ -35,20 +36,20 @@
           "beforeDelay": 0,
           "modifier": "0x09",
           "keycode": "0x28",
-          "afterDelay": 2000
+          "afterDelay": 1000
         },
         "exit": {
           "enabled": true,
           "beforeDelay": 0,
           "modifier": "0x09",
           "keycode": "0x28",
-          "afterDelay": 2000
+          "afterDelay": 1000
         }
       },
       {
         "enter": {
           "enabled": true,
-          "beforeDelay": 500,
+          "beforeDelay": 0,
           "modifier": "0x08",
           "keycode": "0x2E",
           "afterDelay": 1000
@@ -67,14 +68,14 @@
           "beforeDelay": 0,
           "modifier": "0x05",
           "keycode": "0x0C",
-          "afterDelay": 100
+          "afterDelay": 500
         },
         "exit": {
           "enabled": true,
           "beforeDelay": 0,
           "modifier": "0x05",
           "keycode": "0x0C",
-          "afterDelay": 0
+          "afterDelay": 500
         }
       }
     ]
@@ -107,7 +108,7 @@
           "mode": 3,
           "mapping": {
             "modifier": "0x08",
-            "keycode": "0x2E",
+            "keycode": "0x2D",
             "mediaKey": null,
             "isMedia": false
           }
@@ -150,7 +151,7 @@
           "mode": 3,
           "mapping": {
             "modifier": "0x08",
-            "keycode": "0x2D",
+            "keycode": "0x2E",
             "mediaKey": null,
             "isMedia": false
           }
@@ -183,8 +184,8 @@
         {
           "mode": 2,
           "mapping": {
-            "modifier": "0xF1",
-            "keycode": "0x4B",
+            "modifier": "0x02",
+            "keycode": "0x2B",
             "mediaKey": null,
             "isMedia": false
           }
@@ -226,8 +227,8 @@
         {
           "mode": 2,
           "mapping": {
-            "modifier": "0xF1",
-            "keycode": "0x4E",
+            "modifier": "0x00",
+            "keycode": "0x2B",
             "mediaKey": null,
             "isMedia": false
           }
@@ -399,7 +400,7 @@
           "mode": 2,
           "mapping": {
             "modifier": "0x00",
-            "keycode": "0x29",
+            "keycode": "0x2A",
             "mediaKey": null,
             "isMedia": false
           }
@@ -441,7 +442,7 @@
         {
           "mode": 2,
           "mapping": {
-            "modifier": "0xF1",
+            "modifier": "0x00",
             "keycode": "0x4A",
             "mediaKey": null,
             "isMedia": false
@@ -551,7 +552,7 @@
           "mode": 1,
           "mapping": {
             "modifier": "0x00",
-            "keycode": "0x05",
+            "keycode": "0x44",
             "mediaKey": null,
             "isMedia": false
           }
@@ -567,9 +568,9 @@
           "mode": 1,
           "mapping": {
             "modifier": "0x00",
-            "keycode": "0x3D",
-            "mediaKey": null,
-            "isMedia": false
+            "keycode": null,
+            "mediaKey": "0x20",
+            "isMedia": true
           }
         },
         {

@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "lastUpdated": "2026-01-05",
   "models": {
     "link-pad": {
@@ -11,11 +11,11 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.2.0",
-          "releaseDate": "2026-01-05",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.0.hex",
-          "fileSize": 88341
+          "version": "1.2.1",
+          "releaseDate": "2026-01-10",
+          "changelog": { "en": "Stability fix", "ko": "버그 수정 및 안정성 패치" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.1.hex",
+          "fileSize": 89180
         }
       ]
     },

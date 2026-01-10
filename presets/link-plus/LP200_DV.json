@@ -1,20 +1,21 @@
 {
   "metadata": {
     "schemaVersion": 1,
-    "exportedAt": "2025-12-04T07:00:58.091Z"
+    "exportedAt": "2026-01-10T09:00:01.920Z"
   },
   "behavior": {
     "mode_feature_enabled": true,
     "led_state_when_mode_disabled": false,
     "led_toggle_on_press_enabled": false,
     "led_default_state": false,
+    "key_hold_mode": false,
     "layout": "vertical",
-    "buttonPrinting": "number"
+    "buttonPrinting": "d-pad"
   },
   "keyMappings": [
     {
       "keyIndex": 0,
-      "label": "M - 모드",
+      "label": "M - Mode",
       "mode0": {
         "modifier": "0x00",
         "keycode": "0x45",
@@ -30,151 +31,151 @@
     },
     {
       "keyIndex": 1,
-      "label": "1 - 음량 감소",
+      "label": "1 - Minus",
       "mode0": {
-        "modifier": "0x00",
-        "keycode": "0x1E",
-        "mediaKey": null,
-        "isMedia": false
-      },
-      "mode1": {
         "modifier": "0x00",
         "keycode": null,
         "mediaKey": "0x80",
         "isMedia": true
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x1E",
+        "mediaKey": null,
+        "isMedia": false
       }
     },
     {
       "keyIndex": 2,
-      "label": "2 - 위",
+      "label": "2 - Up",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x1F",
+        "keycode": "0x52",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x52",
+        "keycode": "0x1F",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 3,
-      "label": "3 - 음량 증가",
+      "label": "3 - Plus",
       "mode0": {
-        "modifier": "0x00",
-        "keycode": "0x20",
-        "mediaKey": null,
-        "isMedia": false
-      },
-      "mode1": {
         "modifier": "0x00",
         "keycode": null,
         "mediaKey": "0x40",
         "isMedia": true
+      },
+      "mode1": {
+        "modifier": "0x00",
+        "keycode": "0x20",
+        "mediaKey": null,
+        "isMedia": false
       }
     },
     {
       "keyIndex": 4,
-      "label": "4 - 왼쪽",
+      "label": "4 - Left",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x21",
+        "keycode": "0x50",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x50",
+        "keycode": "0x21",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 5,
-      "label": "5 - 확인",
+      "label": "5 - OK",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x22",
+        "keycode": "0x28",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x28",
+        "keycode": "0x22",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 6,
-      "label": "6 - 오른쪽",
+      "label": "6 - Right",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x23",
+        "keycode": "0x4F",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x4F",
+        "keycode": "0x23",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 7,
-      "label": "7 - 정지",
+      "label": "7 - Stop",
       "mode0": {
-        "modifier": "0x00",
-        "keycode": "0x24",
+        "modifier": "0x01",
+        "keycode": "0x00",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
-        "modifier": "0x01",
-        "keycode": "0x00",
+        "modifier": "0x00",
+        "keycode": "0x24",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 8,
-      "label": "8 - 아래",
+      "label": "8 - Down",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x25",
+        "keycode": "0x51",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x51",
+        "keycode": "0x25",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 9,
-      "label": "9 - 다시듣기",
+      "label": "9 - Repeat",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x26",
+        "keycode": "0x15",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x15",
+        "keycode": "0x26",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 10,
-      "label": "X - 뒤로",
+      "label": "X - Back",
       "mode0": {
         "modifier": "0x00",
         "keycode": "0x2A",
@@ -190,39 +191,39 @@
     },
     {
       "keyIndex": 11,
-      "label": "0 - 홈",
+      "label": "0 - Home",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x27",
+        "keycode": "0x4A",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x4A",
+        "keycode": "0x27",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 12,
-      "label": "O - 엔터",
+      "label": "O - Enter",
       "mode0": {
         "modifier": "0x00",
-        "keycode": "0x28",
+        "keycode": "0x3A",
         "mediaKey": null,
         "isMedia": false
       },
       "mode1": {
         "modifier": "0x00",
-        "keycode": "0x3A",
+        "keycode": "0x28",
         "mediaKey": null,
         "isMedia": false
       }
     },
     {
       "keyIndex": 13,
-      "label": "🎧⬇︎ 이어폰 삽입",
+      "label": "🎧⬇︎ Earphone IN",
       "mode0": {
         "modifier": "0x00",
         "keycode": "0x42",
@@ -238,7 +239,7 @@
     },
     {
       "keyIndex": 14,
-      "label": "🎧⬆︎ 이어폰 제거",
+      "label": "🎧⬆︎ Earphone OUT",
       "mode0": {
         "modifier": "0x00",
         "keycode": "0x43",
@@ -254,7 +255,7 @@
     },
     {
       "keyIndex": 15,
-      "label": "🔘 외부 버튼",
+      "label": "🔘 External Button",
       "mode0": {
         "modifier": "0x00",
         "keycode": "0x44",

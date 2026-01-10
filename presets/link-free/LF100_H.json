@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "schemaVersion": 3,
+    "exportedAt": "2026-01-10T09:16:48.969Z"
+  },
+  "behavior": {
+    "led_button_press_enabled": false,
+    "led_default_state": true,
+    "led_press_duration_ms": 5000,
+    "orientation_state": true,
+    "layout": "horizontal",
+    "jack_led_mode": 2,
+    "key_hold_mode": false
+  },
+  "keyMappings": [
+    {
+      "keyIndex": 0,
+      "label": "Button 3: ➕ Plus",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": "0x40",
+        "isMedia": true
+      }
+    },
+    {
+      "keyIndex": 1,
+      "label": "Button 4: ➖Minus",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": "0x80",
+        "isMedia": true
+      }
+    },
+    {
+      "keyIndex": 2,
+      "label": "Button 5: ▶ Right",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x4F",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 3,
+      "label": "Button 6: ◀ Left",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x50",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 4,
+      "label": "Button 7: ▲ Up",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x52",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 5,
+      "label": "Button 8: ▼ Down",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x51",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 6,
+      "label": "Button 9: 🔘 OK",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x28",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 7,
+      "label": "Button 10: 🔙 Back",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x29",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 8,
+      "label": "Button 11: 🏠 Home",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x4A",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 9,
+      "label": "Button 12: ℹ️ Info (F1)",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x3A",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 10,
+      "label": "Button 1: 🎧⬇︎ Earphone IN",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x42",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
+    {
+      "keyIndex": 11,
+      "label": "Button 2: 🎧⬆︎ Earphone OUT",
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": "0x43",
+        "mediaKey": null,
+        "isMedia": false
+      }
+    }
+  ]
+}

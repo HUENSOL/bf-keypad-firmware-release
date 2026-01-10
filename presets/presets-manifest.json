@@ -1,12 +1,16 @@
 {
     "link-free": [
-      { "id": "default", "name": "Default Settings", "file": "default.json" }
+      { "id": "vertical", "name": "세로 기본 키맵", "file": "LF100_V.json" },
+      { "id": "horizontal", "name": "가로 기본 키맵", "file": "LF100_H.json" }
     ],
     "link-pad": [
-      { "id": "default", "name": "Default Settings", "file": "link-pad-default-keymap.json" },
-      { "id": "dual mode", "name": "Dual mode Settings", "file": "link-pad-config-dual-mode.json" }
+      { "id": "single-mode", "name": "단일 모드 키맵", "file": "LP100_single.json" },
+      { "id": "multi-mode", "name": "윈도우 멀티 모드 키맵", "file": "LP100_multi.json" }
     ],
     "link-plus": [
-      { "id": "default", "name": "Default Settings", "file": "link-plus-dual-number-vertical.json" }
+      { "id": "num-vertical", "name": "숫자키 세로 기본 키맵", "file": "LP200_NV.json" },
+      { "id": "num-horizontal", "name": "숫자키 가로 기본 키맵", "file": "LP200_NH.json" },
+      { "id": "dpad-vertical", "name": "방향키 세로 기본 키맵", "file": "LP200_DV.json" },
+      { "id": "dpad-horizontal", "name": "방향키 가로 기본 키맵", "file": "LP200_DH.json" }
     ]
   }
