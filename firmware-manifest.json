@@ -11,10 +11,10 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.2.4",
-          "releaseDate": "2026-01-20",
-          "changelog": { "en": "Stability fix", "ko": "버그 수정 및 안정성 패치" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.4.hex",
+          "version": "1.2.5",
+          "releaseDate": "2026-01-23",
+          "changelog": { "en": "Earphone jack/External button key map individual management", "ko": "모드별 이어폰 잭 / 호출벨 키맵 독립 관리 기능 업데이트" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.5.hex",
           "fileSize": 89180
         }
       ]
