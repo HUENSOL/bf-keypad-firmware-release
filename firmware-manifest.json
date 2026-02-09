@@ -28,19 +28,19 @@
         {
           "id": "link-free-vertical",
           "name": { "en": "Vertical", "ko": "세로형" },
-          "version": "1.2.1",
-          "releaseDate": "2026-01-07",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_VERTICAL_HID_API_FW_v1.2.1.hex",
+          "version": "1.2.2",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_FREE_VERTICAL_HID_API_FW_v1.2.2.hex",
           "fileSize": 72366
         },
         {
           "id": "link-free-horizontal",
           "name": { "en": "Horizontal", "ko": "가로형" },
-          "version": "1.2.1",
-          "releaseDate": "2026-01-07",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_FREE_HORIZONTAL_HID_API_FW_v1.2.1.hex",
+          "version": "1.2.2",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_FREE_HORIZONTAL_HID_API_FW_v1.2.2.hex",
           "fileSize": 72395
         }
       ]
