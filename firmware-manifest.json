@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "lastUpdated": "2026-01-20",
+  "lastUpdated": "2026-02-09",
   "models": {
     "link-pad": {
       "name": {
@@ -11,10 +11,10 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
-          "version": "1.2.5",
-          "releaseDate": "2026-01-23",
-          "changelog": { "en": "Earphone jack/External button key map individual management", "ko": "모드별 이어폰 잭 / 호출벨 키맵 독립 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PAD_HID_API_FW_v1.2.5.hex",
+          "version": "1.2.6",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_PAD_HID_API_FW_v1.2.6.hex",
           "fileSize": 89180
         }
       ]
@@ -54,37 +54,37 @@
         {
           "id": "link-plus-number-vertical",
           "name": { "en": "Number printing vertical", "ko": "숫자키 세로형" },
-          "version": "1.2.0",
-          "releaseDate": "2026-01-05",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NV_HID_API_FW_v1.2.0.hex",
+          "version": "1.2.1",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_PLUS_NV_HID_API_FW_v1.2.1.hex",
           "fileSize": 74031
         },
         {
           "id": "link-plus-number-horizontal",
           "name": { "en": "Number printing horizontal", "ko": "숫자키 가로형" },
-          "version": "1.2.0",
-          "releaseDate": "2026-01-05",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_NH_HID_API_FW_v1.2.0.hex",
+          "version": "1.2.1",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_PLUS_NH_HID_API_FW_v1.2.1.hex",
           "fileSize": 74031
         },
         {
           "id": "link-plus-dpad-vertical",
           "name": { "en": "D-pad printing vertical", "ko": "방향키 세로형" },
-          "version": "1.2.0",
-          "releaseDate": "2026-01-05",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DV_HID_API_FW_v1.2.0.hex",
+          "version": "1.2.1",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_PLUS_DV_HID_API_FW_v1.2.1.hex",
           "fileSize": 74076
         },
         {
           "id": "link-plus-dpad-horizontal",
           "name": { "en": "D-pad printing horizontal", "ko": "방향키 가로형" },
-          "version": "1.2.0",
-          "releaseDate": "2026-01-05",
-          "changelog": { "en": "Device info manage", "ko": "단말정보 관리 기능 업데이트" },
-          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-JAN/LINK_PLUS_DH_HID_API_FW_v1.2.0.hex",
+          "version": "1.2.1",
+          "releaseDate": "2026-02-09",
+          "changelog": { "en": "Key hold mode debounce bug fix", "ko": "키 홀드 모드 디바운스 레이트 수정" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-FEB/LINK_PLUS_DH_HID_API_FW_v1.2.1.hex",
           "fileSize": 74076
         }
       ]
