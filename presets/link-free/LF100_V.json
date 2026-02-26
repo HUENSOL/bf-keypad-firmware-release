@@ -10,7 +10,17 @@
     "orientation_state": false,
     "layout": "vertical",
     "jack_led_mode": 2,
-    "key_hold_mode": false
+    "key_hold_mode": false,
+    "periodic_key_send": {
+      "enabled": false,
+      "interval_ms": 10000,
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": null,
+        "isMedia": false
+      }
+    }
   },
   "keyMappings": [
     {

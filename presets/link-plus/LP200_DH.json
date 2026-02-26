@@ -9,6 +9,16 @@
     "led_toggle_on_press_enabled": false,
     "led_default_state": false,
     "key_hold_mode": false,
+    "periodic_key_send": {
+      "enabled": false,
+      "interval_ms": 10000,
+      "mapping": {
+        "modifier": "0x00",
+        "keycode": null,
+        "mediaKey": null,
+        "isMedia": false
+      }
+    },
     "layout": "horizontal",
     "buttonPrinting": "d-pad"
   },

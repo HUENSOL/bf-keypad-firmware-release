@@ -13,6 +13,16 @@
     "mode_led_enabled": true,
     "jack_led_mode": 2,
     "key_hold_mode": false,
+    "periodic_key_send": {
+      "enabled": false,
+      "interval_ms": 10000,
+      "mapping": {
+        "modifier": 0,
+        "keycode": 0,
+        "media": 0,
+        "isMedia": 0
+      }
+    },
     "mode_shortcuts": [
       {
         "enter": {
