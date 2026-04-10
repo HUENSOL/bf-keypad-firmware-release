@@ -11,6 +11,15 @@
         {
           "id": "link-pad-default",
           "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_PAD_HID_API_FW_v1.3.1.hex",
+          "fileSize": 87441
+        },
+        {
+          "id": "link-pad-default",
+          "name": { "en": "Standard", "ko": "기본" },
           "version": "1.3.2",
           "releaseDate": "2026-03-31",
           "changelog": { "en": "Key delay and debounce delay removed", "ko": "키 딜레이와 디바운스 딜레이 제거" },
@@ -25,6 +34,24 @@
         "ko": "링크 프리"
       },
       "variants": [
+        {
+          "id": "link-free-vertical",
+          "name": { "en": "Vertical", "ko": "세로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_FREE_VERTICAL_HID_API_FW_v1.3.1.hex",
+          "fileSize": 74706
+        },
+        {
+          "id": "link-free-horizontal",
+          "name": { "en": "Horizontal", "ko": "가로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_FREE_HORIZONTAL_HID_API_FW_v1.3.1.hex",
+          "fileSize": 74735
+        },
         {
           "id": "link-free-vertical",
           "name": { "en": "Vertical", "ko": "세로형" },
@@ -51,6 +78,42 @@
         "ko": "링크 플러스"
       },
       "variants": [
+        {
+          "id": "link-plus-number-vertical",
+          "name": { "en": "Number printing vertical", "ko": "숫자키 세로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_PLUS_NV_HID_API_FW_v1.3.1.hex",
+          "fileSize": 76985
+        },
+        {
+          "id": "link-plus-number-horizontal",
+          "name": { "en": "Number printing horizontal", "ko": "숫자키 가로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_PLUS_NH_HID_API_FW_v1.3.1.hex",
+          "fileSize": 77210
+        },
+        {
+          "id": "link-plus-dpad-vertical",
+          "name": { "en": "D-pad printing vertical", "ko": "방향키 세로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_PLUS_DV_HID_API_FW_v1.3.1.hex",
+          "fileSize": 77255
+        },
+        {
+          "id": "link-plus-dpad-horizontal",
+          "name": { "en": "D-pad printing horizontal", "ko": "방향키 가로형" },
+          "version": "1.3.1",
+          "releaseDate": "2026-02-26",
+          "changelog": { "en": "Periodic key send, earphone detection API", "ko": "주기 키 전송, 이어폰 감지 API" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-MAR/LINK_PLUS_DH_HID_API_FW_v1.3.1.hex",
+          "fileSize": 77226
+        },
         {
           "id": "link-plus-number-vertical",
           "name": { "en": "Number printing vertical", "ko": "숫자키 세로형" },
