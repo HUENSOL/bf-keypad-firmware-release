@@ -97,6 +97,23 @@
           "fileSize": 77226
         }
       ]
+    },
+    "link-max": {
+      "name": {
+        "en": "Link Max",
+        "ko": "링크 맥스"
+      },
+      "variants": [
+        {
+          "id": "link-max-default",
+          "name": { "en": "Standard", "ko": "기본" },
+          "version": "1.1.0",
+          "releaseDate": "2026-10-02",
+          "changelog": { "en": "Initial firmware", "ko": "1차 개발 버전 펌웨어" },
+          "downloadUrl": "https://raw.githubusercontent.com/HUENSOL/bf-keypad-firmware-release/refs/heads/main/2026-OCT/LINK_MAX_HID_API_FW_v1.1.0.hex",
+          "fileSize": 74330
+        }
+      ]
     }
   }
 }
